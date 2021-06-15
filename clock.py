@@ -1,5 +1,4 @@
 
-# https://techvidvan.com/tutorials/countdown-clock-timer-python/#google_vignette
 import tkinter as Tkinter
 from tkinter import *
 from datetime import datetime
